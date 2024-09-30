@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|solutionrelative:driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6F6F73-A41B-4305-BA52-E41D4B9D855F}|Program02.MackenzieChapman.DS.vcxproj|solutionrelative:Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\Node.cpp",
+              "RelativeDocumentMoniker": "Node.cpp",
+              "ToolTip": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\Node.cpp",
+              "RelativeToolTip": "Node.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T22:00:55.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T22:00:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "driver.cpp",
+              "DocumentMoniker": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\driver.cpp",
+              "RelativeDocumentMoniker": "driver.cpp",
+              "ToolTip": "C:\\Users\\Mackenzie Chapman\\OneDrive\\Documentos\\Program02.MackenzieChapman.DS\\driver.cpp",
+              "RelativeToolTip": "driver.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T21:59:54.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
